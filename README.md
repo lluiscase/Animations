@@ -1,3 +1,2 @@
 # Animations
-Animações feitas em CSS
-Animations made in CSS
+Animações feitas em CSS/Animations made in CSS
